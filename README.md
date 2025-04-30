@@ -26,4 +26,4 @@ Welcome to the **Love Message Emoji** project! This interactive web page allows 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/love-message-emoji.git
+   git clone https://github.com/varnythh/love-message-emoji.git
